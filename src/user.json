@@ -1,0 +1,56 @@
+{
+    "gender": "male",
+    "name": {
+        "title": "Mr",
+        "first": "Christoffer",
+        "last": "Andersen"
+    },
+    "location": {
+        "street": {
+            "number": 878,
+            "name": "Baldersvej"
+        },
+        "city": "Skaerbaek",
+        "state": "Sjælland",
+        "country": "Denmark",
+        "postcode": 35905,
+        "coordinates": {
+            "latitude": "-42.5954",
+            "longitude": "-126.2570"
+        },
+        "timezone": {
+            "offset": "-3:30",
+            "description": "Newfoundland"
+        }
+    },
+    "email": "christoffer.andersen@example.com",
+    "login": {
+        "uuid": "30510cb4-65e3-4f1a-a9ef-4bf805c44f05",
+        "username": "tinyzebra363",
+        "password": "midget",
+        "salt": "At6p9gP5",
+        "md5": "5f6a3e4277d7421a123f71ea8cd1e9bb",
+        "sha1": "30f12ac4198ba64955de7ccfffd44041b438e040",
+        "sha256": "bab9017760a24641041a3778e0eb8481ac46c826e58f2cb57666756e5e1f3bf2"
+    },
+    "dob": {
+        "date": "1986-09-18T13:18:29.391Z",
+        "age": 37
+    },
+    "registered": {
+        "date": "2021-09-06T03:40:16.172Z",
+        "age": 2
+    },
+    "phone": "03732903",
+    "cell": "58401594",
+    "id": {
+        "name": "CPR",
+        "value": "180986-8999"
+    },
+    "picture": {
+        "large": "https://randomuser.me/api/portraits/men/52.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+    },
+    "nat": "DK"
+}
